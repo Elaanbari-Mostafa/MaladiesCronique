@@ -7,7 +7,8 @@ const routes: Routes = [
     path: "auth",
     loadChildren: () => import("./components/auth/auth.module").then((auth) => auth.AuthModule),
     //canActivate : [isAuthenticatedGuard]
-  }
+  },
+  
 ];
 
 @NgModule({

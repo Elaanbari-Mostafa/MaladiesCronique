@@ -38,13 +38,11 @@ namespace APIMaladiesCronique.Controllers
         {
             if (utilisateurDto is null) return BadRequest("utilisateur data is not completed !!!");
 
-            var utilisateurHabilitation =  await _utilisateurService.LoginByEmailAndPassword(utilisateurDto);
+            var utilisateurHabilitationJwt =  await _utilisateurService.LoginByEmailAndPassword(utilisateurDto);
 
-            if (utilisateurHabilitation == null) return NotFound("Utilisateur n'exist pas !!!");
+            if (utilisateurHabilitationJwt == null) return NotFound("Utilisateur n'exist pas !!!");
 
-            return Ok();
-            //UtilisateurHabilitationMenu
-            return Ok(utilisateurHabilitation);
+            return Ok(new { token = utilisateurHabilitationJwt } );
         }
 
     }

@@ -1,4 +1,4 @@
-<p-menubar [model]="items" *ngIf="true">
+<p-menubar [model]="items" *ngIf="isUserConnected">
     <ng-template pTemplate="start">
         <img src="../../../../assets/images/diabetes.jpg" height="40" class="mr-1" />
     </ng-template>

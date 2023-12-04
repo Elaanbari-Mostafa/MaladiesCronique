@@ -3,9 +3,9 @@ using APIMaladiesCronique.Dtos.AuthenticationDto;
 using APIMaladiesCronique.Dtos.HabilitationDto;
 using APIMaladiesCronique.Models.AuthenticationViewModel;
 using APIMaladiesCronique.Services.HabilitationService.Interfaces;
+using APIMaladiesCronique.Tools;
 using Microsoft.AspNetCore.DataProtection;
 using Microsoft.EntityFrameworkCore;
-using APIMaladiesCronique.Tools;
 
 namespace APIMaladiesCronique.Services.HabilitationService.Classes
 {
@@ -14,12 +14,14 @@ namespace APIMaladiesCronique.Services.HabilitationService.Classes
         private readonly MaladiesCroniqueDbContext _context;
         private readonly IDataProtector _dataProtector;
         private readonly IConfiguration _config;
+        private readonly JwtTool _jwt;
 
-        public UtilisateurService(MaladiesCroniqueDbContext context,IDataProtectionProvider dataProvider,IConfiguration configuration)
+        public UtilisateurService(MaladiesCroniqueDbContext context,IDataProtectionProvider dataProvider,IConfiguration configuration, JwtTool jwt)
         {
             this._context = context;
             this._config = configuration;
             this._dataProtector = dataProvider.CreateProtector(_config["Protector:purpose"]);
+            this._jwt = jwt;
         }
 
         public async Task<string> LoginByEmailAndPassword(LoginUtilisateurDto loginUtilisateurDto)
@@ -54,7 +56,7 @@ namespace APIMaladiesCronique.Services.HabilitationService.Classes
                 Autorisations = autorisationList
             };
             
-            return GenerateJwtToken(josnData: utilisateurHabilitation, expiresDate: new DateTime().AddHours(8));
+            return _jwt.GenerateJwtToken(jsonData: utilisateurHabilitation, expiresDate: new DateTime().AddHours(8));
             //return utilisateurHabilitation;
 
         }

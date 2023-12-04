@@ -13,7 +13,7 @@ namespace APIMaladiesCronique.Tools
         {
             this._configuration = configuration;
         }
-        public string GenerateJwtToken(AnyType jsonData, DateTime expiresDate)
+        public string GenerateJwtToken<T>(T jsonData, DateTime expiresDate) where T : class 
         {
             //Convert the jsonData to string
             string jsonDataString = JObject.FromObject(jsonData).ToString();

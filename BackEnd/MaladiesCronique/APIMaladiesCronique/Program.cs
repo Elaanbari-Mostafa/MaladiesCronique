@@ -1,13 +1,20 @@
-global using APIMaladiesCronique.Tools;
-
 using APIMaladiesCronique.Data;
 using APIMaladiesCronique.Services.HabilitationService.Classes;
 using APIMaladiesCronique.Services.HabilitationService.Interfaces;
+using APIMaladiesCronique.Tools;
 using Microsoft.EntityFrameworkCore;
 
 
 var builder = WebApplication.CreateBuilder(args);
 
+var configuration = builder.Configuration;
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowSpecificOrigin", builder =>
+        builder.WithOrigins(configuration["CorsSettings:AllowedOrigin"])
+               .AllowAnyHeader()
+               .AllowAnyMethod());
+});
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -15,7 +22,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDataProtection();
+
 builder.Services.AddDbContext<MaladiesCroniqueDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("MaladiesCroniqueConnectionString")));
+builder.Services.AddScoped<JwtTool>();
 //interface ingection
 builder.Services.AddScoped<IUtilisateurService, UtilisateurService>();
 //
@@ -27,7 +36,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+app.UseCors("AllowSpecificOrigin");
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
