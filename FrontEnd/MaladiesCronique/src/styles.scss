@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+$gutter: 1rem; //for primeflex grid system
+
+/* PrimeNG */
+@import "../node_modules/primeflex/primeflex.scss";
+@import "../node_modules/primeicons/primeicons.css";
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: var(--font-family);
+    color: var(--text-color);
+    background-color: var(--surface-ground);
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+// a {
+//     text-decoration: none;
+//     color: var(--primary-color);
+// }
+
+// .layout-wrapper {
+//     min-height: 100vh;
+// }

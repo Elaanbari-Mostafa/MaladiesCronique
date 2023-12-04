@@ -1,0 +1,156 @@
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\appsettings.Development.json
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\appsettings.json
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\APIMaladiesCronique.exe
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\APIMaladiesCronique.deps.json
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\APIMaladiesCronique.runtimeconfig.json
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\APIMaladiesCronique.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\APIMaladiesCronique.pdb
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Azure.Core.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Azure.Identity.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Humanizer.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.CodeDom.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.Memory.Data.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.csproj.AssemblyReference.cache
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.GeneratedMSBuildEditorConfig.editorconfig
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.AssemblyInfoInputs.cache
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.AssemblyInfo.cs
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.csproj.CoreCompileInputs.cache
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.MvcApplicationPartsAssemblyInfo.cs
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.MvcApplicationPartsAssemblyInfo.cache
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\staticwebassets.build.json
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\staticwebassets.development.json
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\staticwebassets\msbuild.APIMaladiesCronique.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\staticwebassets\msbuild.build.APIMaladiesCronique.props
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APIMaladiesCronique.props
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APIMaladiesCronique.props
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\staticwebassets.pack.json
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\scopedcss\bundle\APIMaladiesCronique.styles.css
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.csproj.CopyComplete
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\refint\APIMaladiesCronique.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.pdb
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.genruntimeconfig.cache
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\ref\APIMaladiesCronique.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\appsettings.Development.json
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\appsettings.json
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\APIMaladiesCronique.exe
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\APIMaladiesCronique.deps.json
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\APIMaladiesCronique.runtimeconfig.json
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\APIMaladiesCronique.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\APIMaladiesCronique.pdb
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Azure.Core.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Azure.Identity.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Humanizer.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.CodeDom.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.csproj.AssemblyReference.cache
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.AssemblyInfoInputs.cache
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.AssemblyInfo.cs
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.csproj.CoreCompileInputs.cache
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.MvcApplicationPartsAssemblyInfo.cs
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.MvcApplicationPartsAssemblyInfo.cache
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\staticwebassets.build.json
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\staticwebassets.development.json
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\staticwebassets\msbuild.APIMaladiesCronique.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\staticwebassets\msbuild.build.APIMaladiesCronique.props
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APIMaladiesCronique.props
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APIMaladiesCronique.props
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\scopedcss\bundle\APIMaladiesCronique.styles.css
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.csproj.CopyComplete
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\refint\APIMaladiesCronique.dll
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.pdb
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\APIMaladiesCronique.genruntimeconfig.cache
+D:\Nouveau dossier\mmmmm\MaladiesCronique\BackEnd\MaladiesCronique\APIMaladiesCronique\obj\Debug\net7.0\ref\APIMaladiesCronique.dll
